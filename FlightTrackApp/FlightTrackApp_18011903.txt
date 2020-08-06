@@ -1,0 +1,25 @@
+Name of the Destinations: 
+Baku
+Amsterdam
+Cape Town
+Canberra
+Ottawa
+=========================================================================================
+Scheduled Flights: 
+1: EK100, Boeing 737, Fly Emirates, Baku, Amsterdam, Sunday, 18:45, 23:40, 0
+2: J28079, Airbus a380, AZAL, Amsterdam, Cape Town, Wednesday, 03:26, 03:37, 6
+3: TG911, Boeing 777, Thai Airlines, Canberra, Ottawa, Tuesday, 02:35, 10:48, 0
+4: LH767, Boeing 767, Lufthansa, Ottawa, Baku, Wednesday, 03:15, 03:27, 3
+5: SU1731, Airbus a320, Aeorflot, Baku, Canberra, Saturday, 10:00, 15:20, 0
+6: BA142, Boeing 787, British Airways, Cape Town, Canberra, Monday, 13:20, 16:20, 0
+7: THY103, Boeing 737-800, Turkish Airlines, Amsterdam, Baku, Wednesday, 03:49, 09:59, 0
+8: PGT6226, Airbus a321, Pegasus Airlines, Canberra, Amsterdam, Monday, 20:00, 23:25, 0
+9: SXS145, Boeing 737, Sunexpress, Amsterdam, Cape Town, Tuesday, 02:50, 10:00, 0
+=========================================================================================
+Currently happened Flights: 
+1: LH767, Boeing 767, Lufthansa, Ottawa, Baku, Wednesday, 03:15, 03:27, 3, Finished
+2: J28079, Airbus a380, AZAL, Amsterdam, Cape Town, Wednesday, 03:26, 03:37, 6, Rejected
+3: THY103, Boeing 737-800, Turkish Airlines, Amsterdam, Baku, Wednesday, 03:49, 09:59, 0, Started
+=========================================================================================
+
+													  Ramiz Mammadli - 18011903.
