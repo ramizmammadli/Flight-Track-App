@@ -22,5 +22,10 @@ It also should be noted that 1 second in the system is equal to 1 minute in real
 (Coded in Eclipse with WindowBuilder)
 
 ### Several Screenshots
-<a href="https://ibb.co/yBGrmTc"><img src="https://i.ibb.co/Pz3dspv/1.png" alt="1" border="0"></a>
 
+<a href="https://ibb.co/yBGrmTc"><img src="https://i.ibb.co/Pz3dspv/1.png" alt="1" border="0"></a>
+--------------------------------------------------------------------------------------------------------
+<a href="https://ibb.co/WKH7XTz"><img src="https://i.ibb.co/Sv6HgLm/2.png" alt="2" border="0"></a>
+--------------------------------------------------------------------------------------------------------
+<a href="https://ibb.co/ww4zHc4"><img src="https://i.ibb.co/2sdk2Zd/3.png" alt="3" border="0"></a>
+--------------------------------------------------------------------------------------------------------
