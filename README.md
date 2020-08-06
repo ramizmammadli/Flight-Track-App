@@ -16,7 +16,7 @@ It also should be noted that 1 second in the system is equal to 1 minute in real
   * Add/Delete/Update flight information
   * Set some delay for a specific flight or cancel a certain flight in a given airport
   * Make the flights, which are close enough to a given airport, wait and then give them permission for landing
-  * Report the information (scheduled arrival/departure time, take off and landing time, delay, date, flight number, the name of the airlines, the departure and the arrival city), for each taking off and landing into the file (flight_report.txt).
+  * Report the information (scheduled arrival/departure time, take off and landing time, delay, date, flight number, the name of the airlines, the departure and the arrival city), for each taking off and landing into the file (FlightTrackApp_18011903.txt).
   * Start, pause, resume and stop the system time.
 
 (Coded in Eclipse with WindowBuilder)
@@ -29,3 +29,4 @@ It also should be noted that 1 second in the system is equal to 1 minute in real
 --------------------------------------------------------------------------------------------------------
 <a href="https://ibb.co/ww4zHc4"><img src="https://i.ibb.co/2sdk2Zd/3.png" alt="3" border="0"></a>
 --------------------------------------------------------------------------------------------------------
+<a href="https://ibb.co/dQs9pg5"><img src="https://i.ibb.co/RCGn6yD/4.png" alt="4" border="0"></a>
