@@ -24,7 +24,8 @@ It also should be noted that 1 second in the system is equal to 1 minute in real
 ### Several Screenshots
 
 ----------------------------------------------------------------
-<img src="file:///C:/Users/ramiz/Desktop/2.png"/>
+
+<img src="https://ibb.co/yBGrmTc"/>
 ----------------------------------------------------------------
 <img src="file:///C:/Users/ramiz/Desktop/3.png"/>
-----------------------------------------------------------------
+
